@@ -4,7 +4,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: lightgray;
+    background: rgb(0, 0, 0);
     font-family: sans-serif;
 }
 
@@ -46,6 +46,6 @@ button {
     vertical-align: middle;
 }
 img {
-    width: 1500px;
+    width: 1300px;
     height: 1000px;
 }
